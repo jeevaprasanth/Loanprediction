@@ -2,7 +2,7 @@
 
 class LoanPredictionApp {
     constructor() {
-        this.apiBase = 'http://localhost:5000';
+        this.apiBase = '';
         this.lastPredictionData = null;
         this.init();
     }
